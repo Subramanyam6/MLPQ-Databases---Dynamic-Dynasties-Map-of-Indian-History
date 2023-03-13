@@ -1,0 +1,135 @@
+begin%King_Names%
+
+King_Names(K_name, K_from, K_to) :- 
+K_name="Vijayalaya", 
+K_from=848, 
+K_to=871.
+
+
+King_Names(K_name, K_from, K_to) :- 
+K_name="Aditya I", 
+K_from=871, 
+K_to=907.
+
+
+King_Names(K_name, K_from, K_to) :- 
+K_name="Parantaka I", 
+K_from=907, 
+K_to=950.
+
+
+King_Names(K_name, K_from, K_to) :- 
+K_name="Gandaraditya", 
+K_from=950, 
+K_to=956.
+
+
+King_Names(K_name, K_from, K_to) :- 
+K_name="Arinjaya", 
+K_from=956, 
+K_to=957.
+
+
+King_Names(K_name, K_from, K_to) :- 
+K_name="Sundara", 
+K_from=957, 
+K_to=970.
+
+
+King_Names(K_name, K_from, K_to) :- 
+K_name="Aditya II", 
+K_from=970, 
+K_to=970.
+
+
+King_Names(K_name, K_from, K_to) :- 
+K_name="Uttama", 
+K_from=970, 
+K_to=985.
+
+
+King_Names(K_name, K_from, K_to) :- 
+K_name="Rajaraja I", 
+K_from=985, 
+K_to=1014.
+
+
+King_Names(K_name, K_from, K_to) :- 
+K_name="Rajendra I", 
+K_from=1012, 
+K_to=1044.
+
+
+King_Names(K_name, K_from, K_to) :- 
+K_name="Rajadhiraja", 
+K_from=1044, 
+K_to=1054.
+
+
+King_Names(K_name, K_from, K_to) :- 
+K_name="Rajendra II", 
+K_from=1054, 
+K_to=1063.
+
+
+King_Names(K_name, K_from, K_to) :- 
+K_name="Virarajendra", 
+K_from=1063, 
+K_to=1070.
+
+
+King_Names(K_name, K_from, K_to) :- 
+K_name="Athirajendra", 
+K_from=1070, 
+K_to=1070.
+
+
+King_Names(K_name, K_from, K_to) :- 
+K_name="Koluthunga I", 
+K_from=1070, 
+K_to=1120.
+
+
+King_Names(K_name, K_from, K_to) :- 
+K_name="Vikrama", 
+K_from=1120, 
+K_to=1135.
+
+
+King_Names(K_name, K_from, K_to) :- 
+K_name="Koluthunga II", 
+K_from=1133, 
+K_to=1150.
+
+
+King_Names(K_name, K_from, K_to) :- 
+K_name="Rajaraja II", 
+K_from=1146, 
+K_to=1173.
+
+
+King_Names(K_name, K_from, K_to) :- 
+K_name="Rajadhiraja II", 
+K_from=1166, 
+K_to=1178.
+
+
+King_Names(K_name, K_from, K_to) :- 
+K_name="Koluthunga III", 
+K_from=1178, 
+K_to=1216.
+
+
+King_Names(K_name, K_from, K_to) :- 
+K_name="Rajaraja III", 
+K_from=1216, 
+K_to=1246.
+
+
+King_Names(K_name, K_from, K_to) :- 
+K_name="Rajendra III", 
+K_from=1246, 
+K_to=1279.
+
+
+end%King_Names%

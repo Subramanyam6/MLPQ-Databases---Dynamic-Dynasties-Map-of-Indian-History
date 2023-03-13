@@ -1,0 +1,11 @@
+begin %basic%
+
+CREATE_VIEW Mughal_1700
+
+SELECT D.x, D.y
+
+FROM Dynasties AS D, NameTable AS N
+
+WHERE D.id=N.id, N.DName="MughalEmpire"
+
+end %basic%

@@ -1,0 +1,15 @@
+begin %AGGREG%
+
+CREATE_VIEW Count_Kings
+
+SELECT N.DName, COUNT(K.name)
+
+FROM Kings AS K, NameTable AS N
+
+WHERE N.id=K.id
+
+GROUP N.DName
+
+HAVING 
+
+end %AGGREG%

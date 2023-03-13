@@ -1,0 +1,48 @@
+begin%Count_Kings%
+
+Count_Kings(N_DName, K_name) :- 
+N_DName="Pala", 
+K_name=21.
+
+
+Count_Kings(N_DName, K_name) :- 
+N_DName="Chola", 
+K_name=22.
+
+
+Count_Kings(N_DName, K_name) :- 
+N_DName="Gupta", 
+K_name=12.
+
+
+Count_Kings(N_DName, K_name) :- 
+N_DName="Kakatiya", 
+K_name=9.
+
+
+Count_Kings(N_DName, K_name) :- 
+N_DName="Satavahana", 
+K_name=10.
+
+
+Count_Kings(N_DName, K_name) :- 
+N_DName="MughalEmpire", 
+K_name=17.
+
+
+Count_Kings(N_DName, K_name) :- 
+N_DName="VijayaNagara", 
+K_name=22.
+
+
+Count_Kings(N_DName, K_name) :- 
+N_DName="DelhiSultanate", 
+K_name=28.
+
+
+Count_Kings(N_DName, K_name) :- 
+N_DName="GurjaraPratihara", 
+K_name=17.
+
+
+end%Count_Kings%

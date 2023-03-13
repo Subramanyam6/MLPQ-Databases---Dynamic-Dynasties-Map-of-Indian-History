@@ -1,0 +1,788 @@
+begin%tenure%
+
+tenure(K_name, length) :- 
+length=23, 
+K_name="Vijayalaya".
+
+
+tenure(K_name, length) :- 
+length=36, 
+K_name="Aditya I".
+
+
+tenure(K_name, length) :- 
+length=43, 
+K_name="Parantaka I".
+
+
+tenure(K_name, length) :- 
+length=6, 
+K_name="Gandaraditya".
+
+
+tenure(K_name, length) :- 
+length=1, 
+K_name="Arinjaya".
+
+
+tenure(K_name, length) :- 
+length=13, 
+K_name="Sundara".
+
+
+tenure(K_name, length) :- 
+length=0, 
+K_name="Aditya II".
+
+
+tenure(K_name, length) :- 
+length=15, 
+K_name="Uttama".
+
+
+tenure(K_name, length) :- 
+length=29, 
+K_name="Rajaraja I".
+
+
+tenure(K_name, length) :- 
+length=32, 
+K_name="Rajendra I".
+
+
+tenure(K_name, length) :- 
+length=10, 
+K_name="Rajadhiraja".
+
+
+tenure(K_name, length) :- 
+length=9, 
+K_name="Rajendra II".
+
+
+tenure(K_name, length) :- 
+length=7, 
+K_name="Virarajendra".
+
+
+tenure(K_name, length) :- 
+length=0, 
+K_name="Athirajendra".
+
+
+tenure(K_name, length) :- 
+length=50, 
+K_name="Koluthunga I".
+
+
+tenure(K_name, length) :- 
+length=15, 
+K_name="Vikrama".
+
+
+tenure(K_name, length) :- 
+length=17, 
+K_name="Koluthunga II".
+
+
+tenure(K_name, length) :- 
+length=27, 
+K_name="Rajaraja II".
+
+
+tenure(K_name, length) :- 
+length=12, 
+K_name="Rajadhiraja II".
+
+
+tenure(K_name, length) :- 
+length=38, 
+K_name="Koluthunga III".
+
+
+tenure(K_name, length) :- 
+length=30, 
+K_name="Rajaraja III".
+
+
+tenure(K_name, length) :- 
+length=33, 
+K_name="Rajendra III".
+
+
+tenure(K_name, length) :- 
+length=25, 
+K_name="Gautamiputra Siva Satakarni".
+
+
+tenure(K_name, length) :- 
+length=24, 
+K_name="Gautamiputra Sri Satakarni".
+
+
+tenure(K_name, length) :- 
+length=35, 
+K_name="Vasisthiputra Sri Pulumavi".
+
+
+tenure(K_name, length) :- 
+length=29, 
+K_name="Vasisthiputra Sri Satakarni".
+
+
+tenure(K_name, length) :- 
+length=8, 
+K_name="Vasisthiputra Sivasri Pulumavi".
+
+
+tenure(K_name, length) :- 
+length=14, 
+K_name="Vasisthiputra Sriskanda Satakarni".
+
+
+tenure(K_name, length) :- 
+length=28, 
+K_name="Gautamiputra Sriyajna Satakarni".
+
+
+tenure(K_name, length) :- 
+length=5, 
+K_name="Gautamiputra Srivijaya Satakarni".
+
+
+tenure(K_name, length) :- 
+length=14, 
+K_name="Vasisthiputra Sriscanda Satakarni".
+
+
+tenure(K_name, length) :- 
+length=10, 
+K_name="Mathariputra Sri Pulumavi".
+
+
+tenure(K_name, length) :- 
+length=35, 
+K_name="Nagabhata I".
+
+
+tenure(K_name, length) :- 
+length=20, 
+K_name="Devaraja".
+
+
+tenure(K_name, length) :- 
+length=20, 
+K_name="Vatsaraja".
+
+
+tenure(K_name, length) :- 
+length=33, 
+K_name="Nagabhata II".
+
+
+tenure(K_name, length) :- 
+length=3, 
+K_name="Ramabhadra".
+
+
+tenure(K_name, length) :- 
+length=49, 
+K_name="Mihira Bhoja".
+
+
+tenure(K_name, length) :- 
+length=25, 
+K_name="Mahendrapala I".
+
+
+tenure(K_name, length) :- 
+length=3, 
+K_name="Bhoja II".
+
+
+tenure(K_name, length) :- 
+length=31, 
+K_name="Mahipala I".
+
+
+tenure(K_name, length) :- 
+length=4, 
+K_name="Mahendrapala II".
+
+
+tenure(K_name, length) :- 
+length=6, 
+K_name="Devapala".
+
+
+tenure(K_name, length) :- 
+length=1, 
+K_name="Vinayakapala".
+
+
+tenure(K_name, length) :- 
+length=1, 
+K_name="Mahipala II".
+
+
+tenure(K_name, length) :- 
+length=4, 
+K_name="Vijayapala II".
+
+
+tenure(K_name, length) :- 
+length=58, 
+K_name="Rajapala".
+
+
+tenure(K_name, length) :- 
+length=9, 
+K_name="Trilochanapala".
+
+
+tenure(K_name, length) :- 
+length=12, 
+K_name="Yasahpala".
+
+
+tenure(K_name, length) :- 
+length=24, 
+K_name="Gopala I".
+
+
+tenure(K_name, length) :- 
+length=32, 
+K_name="Dharmapala".
+
+
+tenure(K_name, length) :- 
+length=39, 
+K_name="Devapala".
+
+
+tenure(K_name, length) :- 
+length=15, 
+K_name="Mahendrapala".
+
+
+tenure(K_name, length) :- 
+length=12, 
+K_name="Shurapala I".
+
+
+tenure(K_name, length) :- 
+length=1, 
+K_name="Vigrahapala I".
+
+
+tenure(K_name, length) :- 
+length=54, 
+K_name="Narayanapala ".
+
+
+tenure(K_name, length) :- 
+length=32, 
+K_name="Rajyapala".
+
+
+tenure(K_name, length) :- 
+length=17, 
+K_name="Gopala III".
+
+
+tenure(K_name, length) :- 
+length=1, 
+K_name="Vigrahapala II".
+
+
+tenure(K_name, length) :- 
+length=50, 
+K_name="Mahipala I".
+
+
+tenure(K_name, length) :- 
+length=16, 
+K_name="Nayapala".
+
+
+tenure(K_name, length) :- 
+length=27, 
+K_name="Vigrahapala III".
+
+
+tenure(K_name, length) :- 
+length=1, 
+K_name="Shurapala II".
+
+
+tenure(K_name, length) :- 
+length=54, 
+K_name="Ramapala".
+
+
+tenure(K_name, length) :- 
+length=2, 
+K_name="Kumarapala".
+
+
+tenure(K_name, length) :- 
+length=15, 
+K_name="Gopala IV".
+
+
+tenure(K_name, length) :- 
+length=18, 
+K_name="Madanapala".
+
+
+tenure(K_name, length) :- 
+length=4, 
+K_name="Govindapala".
+
+
+tenure(K_name, length) :- 
+length=35, 
+K_name="Palapala".
+
+
+tenure(K_name, length) :- 
+length=45, 
+K_name="Samudragupta".
+
+
+tenure(K_name, length) :- 
+length=0, 
+K_name="Ramagupta".
+
+
+tenure(K_name, length) :- 
+length=35, 
+K_name="Chandragupta II".
+
+
+tenure(K_name, length) :- 
+length=40, 
+K_name="Kumaragupta".
+
+
+tenure(K_name, length) :- 
+length=12, 
+K_name="Skandagupta".
+
+
+tenure(K_name, length) :- 
+length=6, 
+K_name="Purugupta".
+
+
+tenure(K_name, length) :- 
+length=3, 
+K_name="Kumaragupta II".
+
+
+tenure(K_name, length) :- 
+length=19, 
+K_name="Budhagupta".
+
+
+tenure(K_name, length) :- 
+length=5, 
+K_name="Kumaragupta III".
+
+
+tenure(K_name, length) :- 
+length=20, 
+K_name="Vishnugupta".
+
+
+tenure(K_name, length) :- 
+length=20, 
+K_name="Vainyagupta".
+
+
+tenure(K_name, length) :- 
+length=10, 
+K_name="Bhanugupta".
+
+
+tenure(K_name, length) :- 
+length=20, 
+K_name="Harihara I".
+
+
+tenure(K_name, length) :- 
+length=21, 
+K_name="Bukka Raya I".
+
+
+tenure(K_name, length) :- 
+length=27, 
+K_name="Harihara Raya II".
+
+
+tenure(K_name, length) :- 
+length=1, 
+K_name="Virupaksha Raya".
+
+
+tenure(K_name, length) :- 
+length=1, 
+K_name="Bukka Raya II".
+
+
+tenure(K_name, length) :- 
+length=16, 
+K_name="Deva Raya I".
+
+
+tenure(K_name, length) :- 
+length=2, 
+K_name="Vira Vijaya Bukka Raya".
+
+
+tenure(K_name, length) :- 
+length=22, 
+K_name="Deva Raya II".
+
+
+tenure(K_name, length) :- 
+length=19, 
+K_name="Mallikarjuna Raya".
+
+
+tenure(K_name, length) :- 
+length=20, 
+K_name="Virupaksha Raya II".
+
+
+tenure(K_name, length) :- 
+length=6, 
+K_name="Narasimha Deva Raya".
+
+
+tenure(K_name, length) :- 
+length=14, 
+K_name="Narasimha Raya II".
+
+
+tenure(K_name, length) :- 
+length=4, 
+K_name="Vira Narasimha Raya".
+
+
+tenure(K_name, length) :- 
+length=20, 
+K_name="Krishna Deva Raya".
+
+
+tenure(K_name, length) :- 
+length=13, 
+K_name="Achyuta Deva Raya".
+
+
+tenure(K_name, length) :- 
+length=28, 
+K_name="Sadasiva Raya".
+
+
+tenure(K_name, length) :- 
+length=2, 
+K_name="Tirumala Deva Raya".
+
+
+tenure(K_name, length) :- 
+length=14, 
+K_name="Sriranga I".
+
+
+tenure(K_name, length) :- 
+length=28, 
+K_name="Venkata II".
+
+
+tenure(K_name, length) :- 
+length=18, 
+K_name="Rama Deva Raya".
+
+
+tenure(K_name, length) :- 
+length=10, 
+K_name="Venkata III".
+
+
+tenure(K_name, length) :- 
+length=4, 
+K_name="Sriranga III".
+
+
+tenure(K_name, length) :- 
+length=4, 
+K_name="Qutbuddin Aibak".
+
+
+tenure(K_name, length) :- 
+length=1, 
+K_name="Aram Shah".
+
+
+tenure(K_name, length) :- 
+length=25, 
+K_name="Shamsuddin Iltutmish".
+
+
+tenure(K_name, length) :- 
+length=4, 
+K_name="Raziyatuddin Sultana".
+
+
+tenure(K_name, length) :- 
+length=2, 
+K_name="Muizuddin Bahram".
+
+
+tenure(K_name, length) :- 
+length=4, 
+K_name="Alauddin Masud".
+
+
+tenure(K_name, length) :- 
+length=20, 
+K_name="Nasiruddin Mahmud".
+
+
+tenure(K_name, length) :- 
+length=20, 
+K_name="Ghiyasuddin Balban".
+
+
+tenure(K_name, length) :- 
+length=4, 
+K_name="Muizuddin Qaiqabad".
+
+
+tenure(K_name, length) :- 
+length=6, 
+K_name="Jalaluddin Firuz Khilji".
+
+
+tenure(K_name, length) :- 
+length=20, 
+K_name="Alauddin Khilji".
+
+
+tenure(K_name, length) :- 
+length=4, 
+K_name="Qutbuddin Mubarak Shah".
+
+
+tenure(K_name, length) :- 
+length=4, 
+K_name="Ghiyat aldin Tughluq".
+
+
+tenure(K_name, length) :- 
+length=26, 
+K_name="Muhammad bin Tughluq".
+
+
+tenure(K_name, length) :- 
+length=37, 
+K_name="Firuz Shah Tughluq".
+
+
+tenure(K_name, length) :- 
+length=1, 
+K_name="Ghiyasuddin Tughluq II".
+
+
+tenure(K_name, length) :- 
+length=1, 
+K_name="Abu Bakr Shah".
+
+
+tenure(K_name, length) :- 
+length=3, 
+K_name="Nasiruddin Muhammad Shah III".
+
+
+tenure(K_name, length) :- 
+length=1, 
+K_name="Mahmud Nasiruddin".
+
+
+tenure(K_name, length) :- 
+length=5, 
+K_name="Nusrat Shah".
+
+
+tenure(K_name, length) :- 
+length=14, 
+K_name="Nasiruddin Mahmud Shah".
+
+
+tenure(K_name, length) :- 
+length=7, 
+K_name="Khizr Khan".
+
+
+tenure(K_name, length) :- 
+length=13, 
+K_name="Mubarak Shah".
+
+
+tenure(K_name, length) :- 
+length=11, 
+K_name="Muhammad Shah".
+
+
+tenure(K_name, length) :- 
+length=6, 
+K_name="Alam Shah".
+
+
+tenure(K_name, length) :- 
+length=38, 
+K_name="Bahlol Lodhi".
+
+
+tenure(K_name, length) :- 
+length=28, 
+K_name="Sikadender Lodhi".
+
+
+tenure(K_name, length) :- 
+length=9, 
+K_name="Bahlol Lodhi".
+
+
+tenure(K_name, length) :- 
+length=4, 
+K_name="Babur".
+
+
+tenure(K_name, length) :- 
+length=10, 
+K_name="Humayun".
+
+
+tenure(K_name, length) :- 
+length=1, 
+K_name="Humayun".
+
+
+tenure(K_name, length) :- 
+length=49, 
+K_name="Akbar".
+
+
+tenure(K_name, length) :- 
+length=22, 
+K_name="Jahangir".
+
+
+tenure(K_name, length) :- 
+length=30, 
+K_name="Shah Jahan".
+
+
+tenure(K_name, length) :- 
+length=49, 
+K_name="Aurangazeb".
+
+
+tenure(K_name, length) :- 
+length=5, 
+K_name="Bahadur Shah I".
+
+
+tenure(K_name, length) :- 
+length=1, 
+K_name="Jahandar Shah".
+
+
+tenure(K_name, length) :- 
+length=6, 
+K_name="Furrukhsiyar".
+
+
+tenure(K_name, length) :- 
+length=29, 
+K_name="Muhammad Shah".
+
+
+tenure(K_name, length) :- 
+length=6, 
+K_name="Ahmad Shah Bahadur".
+
+
+tenure(K_name, length) :- 
+length=5, 
+K_name="Alamgir II".
+
+
+tenure(K_name, length) :- 
+length=1, 
+K_name="Shah Jahan III".
+
+
+tenure(K_name, length) :- 
+length=46, 
+K_name="Shah Alam II".
+
+
+tenure(K_name, length) :- 
+length=31, 
+K_name="Akbar Shah II".
+
+
+tenure(K_name, length) :- 
+length=20, 
+K_name="Bahadur Shah II".
+
+
+tenure(K_name, length) :- 
+length=52, 
+K_name="Betaraja I".
+
+
+tenure(K_name, length) :- 
+length=24, 
+K_name="Prolaraja I".
+
+
+tenure(K_name, length) :- 
+length=32, 
+K_name="Betaraja II".
+
+
+tenure(K_name, length) :- 
+length=48, 
+K_name="Prola II".
+
+
+tenure(K_name, length) :- 
+length=37, 
+K_name="Rudradeva".
+
+
+tenure(K_name, length) :- 
+length=3, 
+K_name="Mahadeva".
+
+
+tenure(K_name, length) :- 
+length=64, 
+K_name="Ganapathideva".
+
+
+tenure(K_name, length) :- 
+length=34, 
+K_name="Rani Rudramadevi".
+
+
+tenure(K_name, length) :- 
+length=27, 
+K_name="Prataprudra".
+
+
+end%tenure%

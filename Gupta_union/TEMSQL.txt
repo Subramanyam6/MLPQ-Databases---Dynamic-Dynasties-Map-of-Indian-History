@@ -1,0 +1,4 @@
+begin %TEMPSQL%
+Gupta_union(D_x, D_y) :- Dynasties(D_id,D_x,D_y,D_t), NameTable(N_id,N_DName), D_id-N_id=0, N_DName="Gupta", D_t=400. 
+Gupta_union(D_x,D_y) :- Dynasties(D_id,D_x,D_y,D_t), NameTable(N_id,N_DName), D_id-N_id=0, N_DName="Gupta", D_t=500. 
+end %TEMPSQL%

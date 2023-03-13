@@ -1,0 +1,3 @@
+begin %TEMPSQL%
+tenure(K_name, length) :- Kings(K_id,K_name,K_from,K_to), length-K_to+K_from=0. 
+end %TEMPSQL%

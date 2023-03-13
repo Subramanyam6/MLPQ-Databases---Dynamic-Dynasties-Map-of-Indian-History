@@ -1,0 +1,11 @@
+begin %basic%
+
+CREATE_VIEW tenure
+
+SELECT K.name, length
+
+FROM Kings AS K
+
+WHERE length-K.to+K.from=0
+
+end %basic%

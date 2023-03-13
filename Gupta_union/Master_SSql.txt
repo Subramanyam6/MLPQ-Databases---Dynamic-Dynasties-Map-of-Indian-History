@@ -1,0 +1,19 @@
+begin %SET%
+
+CREATE_VIEW Gupta_union
+
+SELECT1 D.x, D.y
+
+FROM1 Dynasties AS D, NameTable AS N
+
+WHERE1 D.id=N.id, N.DName="Gupta", D.t=400
+
+INTUNION UNION
+
+SELECT2 D.x,D.y
+
+FROM2 Dynasties AS D, NameTable AS N
+
+WHERE2 D.id=N.id, N.DName="Gupta", D.t=500
+
+end %SET%

@@ -1,0 +1,11 @@
+begin %basic%
+
+CREATE_VIEW King_Names
+
+SELECT K.name, K.from, K.to
+
+FROM Kings AS K, NameTable AS N
+
+WHERE K.id=N.id, N.DName="Chola"
+
+end %basic%
